@@ -7,7 +7,7 @@
 - Printer Access: If 3 printers are available, up to 3 users can print simultaneously. When all are busy, new requests wait.
 - Critical Section Protection: Only one thread should update a shared variable at a time.
 ## Types of Semaphores
-### Binary Semaphore
+## Binary Semaphore
 #### Definition:
 A semaphore with only two values: 0 or 1 (locked/unlocked).
 #### Explanation:
