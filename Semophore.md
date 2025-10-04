@@ -14,6 +14,7 @@
 - It is used as a simple lock mechanism (similar to a mutex). Only one thread can access the resource at a time.
 #### Use Case:
 - Protect a critical section where only one task can run at a time.
+```c
 #include <stdio.h>
 #include <pthread.h>
 #include <semaphore.h>
@@ -37,3 +38,4 @@ int main() {
     sem_destroy(&bin_sem);
     return 0;
 }
+```
