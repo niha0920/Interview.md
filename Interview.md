@@ -15,3 +15,19 @@
 - Often works in real-time and has resource constraints (limited CPU, memory).
 - Found everywhere — in automobiles, medical devices, consumer electronics, and IoT.
 - Can be standalone or connected (networked).
+
+## 2. Explain types of embedded system?
+### Standalone Embedded Systems
+#### Definition
+- A Standalone Embedded System operates independently and does not rely on any external system to perform its task.
+- It takes input, processes it, and gives output — all within itself.
+#### Characteristics
+- Works without a host (PC/server)
+- Uses input devices (keypad, sensors)
+- Generates output (display, actuator, etc.)
+- Runs a single, fixed function
+#### Examples
+- Digital Calculator
+- Washing Machine Controller
+- Microwave Oven
+- MP3 Player
