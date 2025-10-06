@@ -74,3 +74,39 @@
 - Fitness Bands
 - Digital Cameras
 - Drones
+
+## 3. Explain about the microprocessor?
+- A microprocessor is a Central Processing Unit (CPU) built on a single chip.
+- A Microprocessor is the brain of a computer or embedded system — a single integrated circuit (IC) that performs computation, decision-making, and control tasks.
+- It’s a programmable electronic chip that takes input, processes it according to instructions (software), and gives output.
+### Main Components:
+#### ALU (Arithmetic Logic Unit):
+- Performs mathematical (add, subtract, multiply) and logical (AND, OR, NOT) operations.
+#### Control Unit:
+- Fetches and decodes instructions, then controls the execution flow.
+#### Registers:
+- Small, high-speed memory locations inside the CPU for temporary data storage.
+#### Buses:
+- Pathways that carry data and control signals:
+  - Data Bus – carries data
+  - Address Bus – carries memory addresses
+  - Control Bus – carries control signals (read/write)
+### Working Principle
+- The microprocessor operates on the Fetch–Decode–Execute cycle:
+#### Fetch:
+- Gets (fetches) the instruction from memory.
+#### Decode:
+- Interprets (decodes) what the instruction means.
+#### Execute:
+- Performs the operation (add, move data, etc.).
+#### Repeat:
+- Moves to the next instruction — this happens millions of times per second.
+### Features
+#### Speed	
+- Measured in MHz or GHz
+#### Word Length	
+- 8-bit, 16-bit, 32-bit, 64-bit
+#### Instruction Set	
+- Defines operations the processor can perform
+#### Programmable	
+- Behavior changes based on software instructions
