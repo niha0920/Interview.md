@@ -31,3 +31,12 @@
 - Washing Machine Controller
 - Microwave Oven
 - MP3 Player
+### Real-Time Embedded Systems
+#### Definition
+- A Real-Time Embedded System must respond to inputs or events within a specific time limit (deadline).
+- Delays or missed deadlines can cause system failure or danger.
+- 
+  | Type               | Description                    | Example                      |
+| ------------------ | ------------------------------ | ---------------------------- |
+| **Hard Real-Time** | Must meet deadlines every time | Airbag system, Pacemaker     |
+| **Soft Real-Time** | Occasional delay acceptable    | Multimedia systems, Printers |
