@@ -35,8 +35,42 @@
 #### Definition
 - A Real-Time Embedded System must respond to inputs or events within a specific time limit (deadline).
 - Delays or missed deadlines can cause system failure or danger.
-- 
-  | Type               | Description                    | Example                      |
-| ------------------ | ------------------------------ | ---------------------------- |
-| **Hard Real-Time** | Must meet deadlines every time | Airbag system, Pacemaker     |
-| **Soft Real-Time** | Occasional delay acceptable    | Multimedia systems, Printers |
+- Types
+  - #### Hard Real-Time 
+    - Must meet deadlines every time
+    - Example : Airbag system, Pacemaker
+  - #### Soft Real-Time
+    - Occasional delay acceptable
+    - Example : Multimedia systems, Printers
+#### Characteristics
+- Runs on RTOS (Real-Time Operating System)
+- Predictable timing behavior
+- Used in safety-critical and control systems
+### Networked Embedded Systems
+#### Definition
+- A Networked Embedded System communicates with other systems or devices through a network (wired or wireless).
+- It sends or receives data for coordination or control.
+#### Characteristics
+- Uses protocols like Ethernet, Wi-Fi, Bluetooth, Zigbee, CAN bus
+- Can be part of IoT (Internet of Things)
+- Often monitored or controlled remotely
+#### Examples
+- Routers and Modems
+- Smart Home Devices (like Alexa, Smart Bulbs)
+- Security Surveillance Systems
+- Industrial IoT Sensors
+### Mobile Embedded Systems
+#### Definition
+- A Mobile Embedded System is portable, compact, and often battery-powered.
+- It’s designed for mobility and user interaction.
+#### Characteristics
+- Lightweight and energy-efficient
+- Compact hardware and display interface
+- Often connected via wireless networks
+- May run on mobile OS (Android, iOS, Wear OS)
+#### Examples
+- Smartphones
+- Smartwatches
+- Fitness Bands
+- Digital Cameras
+- Drones
