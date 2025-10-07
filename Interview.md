@@ -116,3 +116,10 @@
 - Intel Core i7	---> 64-bit	---> Laptops & Desktops
 - AMD Ryzen	---> 64-bit	---> High-performance computers
 - ARM Cortex-A ---> 32/64-bit	---> Smartphones, tablets
+### Applications
+- Personal computers & laptops (Intel, AMD processors)
+- Industrial controllers
+- Gaming consoles
+- Servers and data centers
+- Signal processing and robotics
+
