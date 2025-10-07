@@ -111,8 +111,8 @@
 #### Programmable	
 - Behavior changes based on software instructions
 ### Examples of Microprocessors
-- Intel 8085	  8-bit   	Early computers, teaching
-- Intel 8086   	16-bit  	Early PCs
-- Intel Core i7	64-bit	  Laptops & Desktops
-- AMD Ryzen	    64-bit	  High-performance computers
-- ARM Cortex-A	32/64-bit	Smartphones, tablets
+- Intel 8085 ---> 8-bit ---> Early computers, teaching
+- Intel 8086 --->	16-bit ---> Early PCs
+- Intel Core i7	---> 64-bit	---> Laptops & Desktops
+- AMD Ryzen	---> 64-bit	---> High-performance computers
+- ARM Cortex-A ---> 32/64-bit	---> Smartphones, tablets
